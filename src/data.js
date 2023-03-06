@@ -21,6 +21,7 @@ import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 // projects images
 import Project1 from './assets/img/projects/axia.png';
 import Project2 from './assets/img/projects/HomeLand.png';
+import Project3 from './assets/img/projects/JoBoard.png';
 
 
 // testimonial images
@@ -97,11 +98,11 @@ export const brands = [
 export const projectsData = [
   {
     id: '1',
-    image: Project1,
-    name: 'Axia board',
-    category: 'ReactJs | Dotnet',
-    github: 'https://github.com/jihenmansour/graduation_project',
-    description: 'This was my graduation project, a platform for projects management. '
+    image: Project3,
+    name: 'JoBoard',
+    category: 'Bootstrap | Dotnet',
+    github: 'https://github.com/jihenmansour/JoBoard',
+    description: 'JoBoard is a platform dedicated to helping job seekers find their dream job and employers find the right candidate for their open positions.'
   },
   {
     id: '2',
@@ -111,6 +112,14 @@ export const projectsData = [
     github: 'https://github.com/jihenmansour/real_estate',
     description: 'HomeLand is a platform that I created where buyers  can search for homes and sellers can post their homes on the site.'
   },
+  {
+    id: '3',
+    image: Project1,
+    name: 'Axia board',
+    category: 'ReactJs | Dotnet',
+    github: 'https://github.com/jihenmansour/graduation_project',
+    description: 'This was my graduation project, a platform for projects management. '
+  }
 ];
 
 // projects
