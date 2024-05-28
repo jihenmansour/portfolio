@@ -14,7 +14,7 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 
-export default () => {
+const Projects = () => {
   const swiperRef = useRef();
   return (
     <div>
@@ -48,11 +48,11 @@ export default () => {
                   <hr class="h-px my-8 bg-accent border-0" />
                   <div className='flex  h-7 justify-between text-accent'>
 
-                    <a className='text-base flex items-center gap-2' href={item.github} target="_blank">
+                    <a className='text-base flex items-center gap-2' href={item.github} target="_blank" rel="noreferrer">
                       <FiGithub /> <p className='text-white'>Visit github repository</p>
                     </a>
                     {item.link &&
-                      <a className='text-base flex items-center gap-2' href={item.link} target="_blank">
+                      <a className='text-base flex items-center gap-2' href={item.link} target="_blank" rel="noreferrer">
                         <FiArrowUpRight /> <p className='text-white'>Visit website</p>
                       </a>}
 
@@ -75,3 +75,5 @@ export default () => {
       </div>
   );
 };
+
+export default Projects;
