@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74893299.css",
+    "main.js": "/static/js/main.ecee0166.js",
+    "static/media/HomeLand.png": "/static/media/HomeLand.0a4fefa6b0a0d133ddcb.png",
+    "static/media/axia.png": "/static/media/axia.a477f7de49deb237223f.png",
+    "static/media/testimonial-2.webp": "/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/logo.svg": "/static/media/logo.19d90ecb16e97a0c7a2c4b8428af7e8f.svg",
+    "static/media/Portfolio.jpg": "/static/media/Portfolio.427376fee576f47ce8fc.jpg",
+    "static/media/testimonial-3.webp": "/static/media/testimonial-3.677360499dd5a97f022a.webp",
+    "static/media/portfolio.svg": "/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/testimonial-1.webp": "/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
+    "static/media/skills.svg": "/static/media/skills.446868ca99e708b01592.svg",
+    "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/index.html",
+    "main.74893299.css.map": "/static/css/main.74893299.css.map",
+    "main.ecee0166.js.map": "/static/js/main.ecee0166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74893299.css",
+    "static/js/main.ecee0166.js"
+  ]
+}
